@@ -1,1 +1,1 @@
-Script of the prokject is included in HTML file
+Script of the project is included in HTML file
